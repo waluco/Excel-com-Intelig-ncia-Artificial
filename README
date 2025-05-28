@@ -1,0 +1,21 @@
+# Ferramenta para simulação de investimentos em fundos imobiliários
+
+## Configurações
+No campo **Configurações**, preencha os campos **Salário** e **Rendimento da Carteira**.  
+Será sugerido o valor com base no salário informado.
+
+## Investimento Mensal
+Em **Investimento Mensal**, preencha os campos:
+- **Quanto investir por mês**
+- **Por quantos anos**
+- **Taxa de rendimento mensal**
+
+No campo **Patrimônio acumulado**, será mostrado o valor acumulado durante o tempo informado.  
+No campo **Dividendos mensais**, será informado o valor do rendimento referente ao patrimônio acumulado.
+
+## Cenários
+Em **Cenários**, é mostrado o patrimônio acumulado e o dividendo mensal dividido em cenários de 2, 5, 10, 20 e 30 anos.
+
+## Perfil
+Em **Perfil**, é informado o valor a ser investido e o tipo de perfil.  
+Será mostrado o percentual para investimento com base no valor informado e o tipo de perfil.
