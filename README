@@ -19,3 +19,8 @@ Em **Cenários**, é mostrado o patrimônio acumulado e o dividendo mensal divid
 ## Perfil
 Em **Perfil**, é informado o valor a ser investido e o tipo de perfil.  
 Será mostrado o percentual para investimento com base no valor informado e o tipo de perfil.
+
+##Fórmula
+Foi utilizada a fórmula VF do excel para calcular o valor acumulado durante o período informado, taxa de rendimento e valor investido mensalmente.
+Foi utilizada a fórmula PROCV para encontrar o percentual de investimento de acordo com o perfil escolhido. 
+
