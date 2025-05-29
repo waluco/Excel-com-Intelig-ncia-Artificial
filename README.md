@@ -26,5 +26,5 @@ Será exibido o percentual para investimento com base no valor informado e no pe
 
 ---
 
-## Foi utilizada a fórmula `VF` do Excel para calcular o valor acumulado durante o período informado, considerando a taxa de rendimento e o valor investido mensalmente.  
-## Foi utilizada a fórmula `PROCV` para encontrar o percentual de investimento de acordo com o perfil escolhido.
+Foi utilizada a fórmula `VF` do Excel para calcular o valor acumulado durante o período informado, considerando a taxa de rendimento e o valor investido mensalmente.  
+Foi utilizada a fórmula `PROCV` para encontrar o percentual de investimento de acordo com o perfil escolhido.
